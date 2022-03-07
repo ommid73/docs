@@ -54,3 +54,4 @@ If you access {% data variables.product.prodname_dotcom %} at `https://*.githube
 In a wide browser window, the words "{% data variables.product.prodname_ghe_managed %}" immediately follow the {% data variables.product.company_short %} logo in the header.
 
 ![Address bar and {% data variables.product.prodname_ghe_managed %} header in a browser](/assets/images/help/docs/header-ghae.png)
+Designed & promanager with : "Yours Saferman & artchitecturer IT & World wide blockchain / PPH,eng,research fellow,Omid Alimardan...Good luck. Always together.
